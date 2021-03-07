@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap");
+.brandLogo {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+}
+
+.navigationLinks {
+  font-family: 'Poppins', sans-serif;
+  font-family: 500;
+  cursor: pointer;
+}
+
+.navigationLinks:hover {
+  color: #E29133;
+}
+
+.general {
+  font-family: 'Poppins', sans-serif;
+  font-family: 300;
+}
+
+.heading {
+  font-family: 'Poppins', sans-serif;
+  font-family: 500;
+}
+
+.introduction {
+  font-family: 'Poppins', sans-serif;
+  font-size: 300;
+  text-align: left;
+}
+
+.paragraph {
+  font-family: 'Poppins', sans-serif;
+  font-size: 300;
+}
+
+.tourHeading {
+  font-family: 'Poppins', sans-serif;
+  font-size: 300;
+}
+/*# sourceMappingURL=style.css.map */
